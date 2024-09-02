@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chandraparsad3/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chandraparsad3/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/chandraparsad3/LeetCode/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
