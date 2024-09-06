@@ -25,5 +25,3 @@ class Solution {
         return (int)end;
     }
 }
-
- 
