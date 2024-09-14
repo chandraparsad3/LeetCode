@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/chandraparsad3/LeetCode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chandraparsad3/LeetCode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
