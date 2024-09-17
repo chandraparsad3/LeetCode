@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandraparsad3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chandraparsad3/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/chandraparsad3/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
