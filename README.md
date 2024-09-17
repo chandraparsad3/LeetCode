@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chandraparsad3/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/chandraparsad3/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chandraparsad3/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
