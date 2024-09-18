@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/chandraparsad3/LeetCode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/chandraparsad3/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/chandraparsad3/LeetCode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
+| [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
+| [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
 ## String Matching
 |  |
 | ------- |
