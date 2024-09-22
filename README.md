@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2756-buy-two-chocolates](https://github.com/chandraparsad3/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
 | [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
+| [2756-buy-two-chocolates](https://github.com/chandraparsad3/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## String Matching
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
+| [2756-buy-two-chocolates](https://github.com/chandraparsad3/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
