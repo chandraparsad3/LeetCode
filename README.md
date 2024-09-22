@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/chandraparsad3/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chandraparsad3/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/chandraparsad3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/chandraparsad3/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chandraparsad3/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/chandraparsad3/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/chandraparsad3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chandraparsad3/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
