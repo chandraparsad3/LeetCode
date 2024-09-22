@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/chandraparsad3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/chandraparsad3/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/chandraparsad3/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
