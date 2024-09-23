@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2630-alternating-digit-sum](https://github.com/chandraparsad3/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/chandraparsad3/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
 |  |
