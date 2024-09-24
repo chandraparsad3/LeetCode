@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/chandraparsad3/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/chandraparsad3/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandraparsad3/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/chandraparsad3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
