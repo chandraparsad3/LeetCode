@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chandraparsad3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/chandraparsad3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/chandraparsad3/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/chandraparsad3/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chandraparsad3/LeetCode/tree/master/0326-power-of-three) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/chandraparsad3/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Hash Table
 |  |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
