@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/chandraparsad3/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/chandraparsad3/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/chandraparsad3/LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandraparsad3/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/chandraparsad3/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2756-buy-two-chocolates](https://github.com/chandraparsad3/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3321-type-of-triangle](https://github.com/chandraparsad3/LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/chandraparsad3/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/chandraparsad3/LeetCode/tree/master/0455-assign-cookies) |
 | [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
 | [2756-buy-two-chocolates](https://github.com/chandraparsad3/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3321-type-of-triangle](https://github.com/chandraparsad3/LeetCode/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
 | ------- |
