@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/chandraparsad3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/chandraparsad3/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/chandraparsad3/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/chandraparsad3/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/chandraparsad3/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/chandraparsad3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/chandraparsad3/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/chandraparsad3/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/chandraparsad3/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/chandraparsad3/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Hash Table
 |  |
