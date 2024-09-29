@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2083-three-divisors](https://github.com/chandraparsad3/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/chandraparsad3/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/chandraparsad3/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -168,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/chandraparsad3/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/chandraparsad3/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Brainteaser
 |  |
