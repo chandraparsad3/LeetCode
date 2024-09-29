@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/chandraparsad3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/chandraparsad3/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/chandraparsad3/LeetCode/tree/master/2383-add-two-integers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chandraparsad3/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
+| [1610-xor-operation-in-an-array](https://github.com/chandraparsad3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
