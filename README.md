@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/chandraparsad3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/chandraparsad3/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/chandraparsad3/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2083-three-divisors](https://github.com/chandraparsad3/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/chandraparsad3/LeetCode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/chandraparsad3/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/chandraparsad3/LeetCode/tree/master/0389-find-the-difference) |
 | [0924-fair-candy-swap](https://github.com/chandraparsad3/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/chandraparsad3/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/chandraparsad3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/chandraparsad3/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Divide and Conquer
 |  |
 | ------- |
