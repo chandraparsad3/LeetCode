@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/chandraparsad3/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/chandraparsad3/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chandraparsad3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/chandraparsad3/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/chandraparsad3/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chandraparsad3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/chandraparsad3/LeetCode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandraparsad3/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/chandraparsad3/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
