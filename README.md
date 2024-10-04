@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chandraparsad3/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandraparsad3/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/chandraparsad3/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/chandraparsad3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/chandraparsad3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chandraparsad3/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/chandraparsad3/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/chandraparsad3/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/chandraparsad3/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/chandraparsad3/LeetCode/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/chandraparsad3/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
