@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/chandraparsad3/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandraparsad3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/chandraparsad3/LeetCode/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/chandraparsad3/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/chandraparsad3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/chandraparsad3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chandraparsad3/LeetCode/tree/master/0258-add-digits) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chandraparsad3/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/chandraparsad3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/chandraparsad3/LeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/chandraparsad3/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandraparsad3/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/chandraparsad3/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/chandraparsad3/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraparsad3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandraparsad3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -221,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/chandraparsad3/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/chandraparsad3/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
